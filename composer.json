@@ -13,7 +13,7 @@
         "nusphere/nusoap": "0.9.6"
     },
     "autoload" : {
-        "psr-4": {"ThierryHTC\\Yousign\\":  "src/"}
+        "psr-4": {"Thierryhtc\\Yousign\\":  "src/"}
     },
     "extra": {
         "branch-alias": {
