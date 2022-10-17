@@ -13,7 +13,7 @@
         "nusphere/nusoap": "0.9.6"
     },
     "autoload" : {
-        "psr-4": {"YousignAPI\\": "src/"}
+        "psr-4": {"Yousign\\": "src/"}
     },
     "extra": {
         "branch-alias": {
